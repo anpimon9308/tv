@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 ,Canal Capital
+http://190.60.39.198:8000/play/a08x/index.m3u8
+#EXTINF:-1 ,RCN 
+http://190.60.39.198:8000/play/a03o/index.m3u8
+#EXTINF:-1 ,Caracol
+http://190.83.60.34:1414/play/a054
+#EXTINF:-1 ,RED Mas
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 ,Canal UNO
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 ,Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 ,Citytv
+http://181.78.24.187:8006/play/a0c5/index.m3u8
+#EXTINF:-1 ,Canal 13
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+#EXTINF:-1 ,TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
+#EXTINF:-1 ,TeleAntioquia
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 ,TelePacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 ,Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 ,NTN 24
+http://190.43.92.145:8000/play/a0zc/index.m3u8
