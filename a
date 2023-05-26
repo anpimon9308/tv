@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 ,Canal Capital
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1554841103161073667/6vqxTJaO_400x400.jpg",Canal Capital
 http://190.60.39.198:8000/play/a08x/index.m3u8
-#EXTINF:-1 tvg-logo=""https://imagenes.canalrcn.com/ImgCanal/logoFooter/rcn-logo-footer.svg",RCN 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452752716313341954/ck2v-Vs1_400x400.jpg",RCN 
 http://190.60.39.198:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg",Caracol
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1563769430886203392/QfcZrWPv_400x400.jpg",Caracol
 http://190.83.60.34:1414/play/a054
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Red-M%C3%A1s-TV-Colombia-en-vivo-Online.png?fit=1920%2C1080&ssl=1",RED Mas
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1566806978265071616/L0mP5BDS_400x400.jpg",REDMás TV
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 ,Canal UNO
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
